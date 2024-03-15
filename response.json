@@ -1,0 +1,104 @@
+[
+    { 
+     "sceneId":"asjgAPwDaBjJzgufjES89Rs4Lpq63O300R",
+     "scene":[
+         
+         {
+             "type":"Heading",
+             "content":"INT. KLA office",
+             "objId":"K2eH4jjIoF1wYeq3aMREpG09xhlhdzS0EjwU7qmUJYangWa"
+         },
+         {
+             "type":"Action",
+             "objId":"ra",
+             "content":"CLOSE ON JOKER (30's), tears in his eyes from laughing sohard. He's trying to get it under control. His greasy, black hair is matted down. He's wearing an old, faded red hooded zip-up sweatshirt, a threadbare gray scarf, thin from years of use, hangs loosely around his neck.WE NOTICE TWO FADED OLD SCARS cut at the corners of his mouth. Almost forming a smile.He's sitting across from an overworked SOCIAL WORKER (50's),African American. Her office is cramped and run-down in acramped and run-down building. Stacks of folders piled highin front of her.She just sits behind her desk, waiting for his laughing fit"
+         },
+         {
+             "type":"Dialogues",
+             "objId":"K2eH4jjIoF1wYeq3aMREpG09xhlhdzS0EjwU7qmUJYangWa",
+             "content":[
+                 {
+                     "charecter":"OppenHeimer",
+                     "Dialogue":"So what this basically does is use a combination of Pug Mixins and CSS to define a set of markup and styles for writing screenplays!",
+                     "paranthetical":"Towards hell"
+                 },
+                 {
+                     "charecter":"Admiral Strauss",
+                     "Dialogue":"So what this basically does is use a combination of Pug Mixins and CSS to define a set of markup and styles for writing screenplays!",
+                     "paranthetical":"Because he wanted to be the man of the earth."
+                 },
+                 {
+                     "charecter":"SomeOne",
+                     "Dialogue":"So what this basically does is use a combination of Pug Mixins and CSS to define a set of markup and styles for writing screenplays!",
+                     "paranthetical":"Towards hell"
+                 },
+                 {
+                     "charecter":"SomeOne",
+                     "Dialogue":"So what this basically does is use a combination of Pug Mixins and CSS to define a set of markup and styles for writing screenplays!",
+                     "paranthetical":"Towards hell"
+                 }
+             ]
+ 
+         },
+         {
+             "type":"Action",
+             "objId":"K2eH4jjIoF1wYeq3aMREpG09xhlhdzS0EjwU7qmUJYangWa",
+             "content":"Jhonny thinks"
+         },
+         {
+             "type":"Shot",
+             "objId":"K2eH4jjIoF1wYeq3aMREpG09xhlhdzS0EjwU7qmUJYangWa",
+             "content":"Close-up of a mysterious React object"
+         }
+     ]},
+     {
+        "sceneId":"asjgAPwDaBjJzgufjES89Rs4Ldq63O300R",
+        "scene":
+        [
+         {
+             "type":"Heading",
+             "objId":"K2eH4jjIoF1wYeq3aMREpG09xhlhdzS0EjwU7qmUJYangWa",
+             "content":"INT. KLA office"
+         },
+         {
+             "type":"Action",
+             "objId":"K2eH4jjIoF1wYeq3aMREpG09xhlhdzS0EjwU7qmUJYangWa",
+             "content":"CLOSE ON JOKER (30's), tears in his eyes from laughing sohard. He's trying to get it under control. His greasy, black hair is matted down. He's wearing an old, faded red hooded zip-up sweatshirt, a threadbare gray scarf, thin from years of use, hangs loosely around his neck.WE NOTICE TWO FADED OLD SCARS cut at the corners of his mouth. Almost forming a smile.He's sitting across from an overworked SOCIAL WORKER (50's),African American. Her office is cramped and run-down in acramped and run-down building. Stacks of folders piled highin front of her.She just sits behind her desk, waiting for his laughing fit"
+         },
+         {
+             "type":"Dialogues",
+             "content":[
+                 {
+                     "charecter":"SomeOne",
+                     "Dialogue":"So what this basically does is use a combination of Pug Mixins and CSS to define a set of markup and styles for writing screenplays!",
+                     "paranthetical":"Towards hell"
+                 },
+                 {
+                     "charecter":"SomeOne",
+                     "Dialogue":"So what this basically does is use a combination of Pug Mixins and CSS to define a set of markup and styles for writing screenplays!",
+                     "paranthetical":"Towards hell"
+                 },
+                 {
+                     "charecter":"SomeOne",
+                     "Dialogue":"So what this basically does is use a combination of Pug Mixins and CSS to define a set of markup and styles for writing screenplays!",
+                     "paranthetical":"Towards hell"
+                 },
+                 {
+                     "charecter":"SomeOne",
+                     "Dialogue":"So what this basically does is use a combination of Pug Mixins and CSS to define a set of markup and styles for writing screenplays!",
+                     "paranthetical":"Towards hell"
+                 }
+             ]
+ 
+         },
+         {
+             "type":"Action",
+             "content":"Jhonny thinks"
+         },
+         {
+             "type":"Shot",
+             "objId":"skjfiuthayakammkaatadheadieyadiyepudhuvaanamthaaldaase",
+             "content":"Close-up of a mysterious React object"
+         }
+     ]}
+ ]
