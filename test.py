@@ -1,18 +1,3 @@
-def getCharectersForBeat(beat, charecterNames, asList):
-    keys = charecterNames.keys()
-    beatList = beat.split(" ")
-    for name in keys:
-        print(name.lower())
-    presentCharecters = [name.lower() for name in keys if name.lower() in beat.lower().split(' ')]
-    print("Hekkekke ",charecterNames, "beat", beat)
-    charDesc = ""
-    for character in charecterNames:
-        charDesc = charDesc + charecterNames[character]
-    if(not asList):
-        return  charDesc
-    else:
-        presentCharecters
-
 import re
 
 def clean_dialogues(generated_output, character_names):
@@ -49,3 +34,31 @@ def clean_dialogues(generated_output, character_names):
     
     return cleaned_dialogues
 
+# Example usage
+generated_output = """CRIMINAL 1: Alright boys, let's do this.
+CRIMINAL 2: Yeah, let's get this money.
+(The criminals start robbing the bank. They start putting the money in bags.)
+CRIMINAL 3: Hurry up, we don't have all day.
+(The criminals finish robbing the bank and start to leave.)
+CRIMINAL 4: Let's get out of here.
+(The criminals start to leave the bank, but then the Joker appears.)
+JOKER: Hold it right there.
+(The criminals stop and turn around.)
+CRIMINAL 1: Who are you?
+JOKER: I'm the one who's going to take all your money.
+(The criminals start to laugh.)
+CRIMINAL 2: You and what army?
+JOKER: This army.
+(The Joker pulls out a gun and shoots the criminals. The criminals all fall to the ground, dead.)
+JOKER: Now, where's the money?
+(The Joker starts to search the criminals for the money.)
+JOKER: Aha! Here it is.
+(The Joker finds the money and starts to put it in his bag.)
+JOKER: Thank you, gentlemen. I'll be taking this.
+(The Joker leaves the bank with the money.)"""
+
+character_names = ['CRIMINAL 1', 'CRIMINAL 2', 'CRIMINAL 3', 'CRIMINAL 4', 'JOKER']
+
+cleaned_dialogues = clean_dialogues(generated_output, character_names)
+for dialogue in cleaned_dialogues:
+    print(dialogue)
